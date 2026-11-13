@@ -24,6 +24,8 @@ When you closely examine the rare breakthroughs praised by the scientific commun
 Faced with a labyrinth of possibilities, the neural network blindly proposes tactical paths or lemma suggestions by drawing from its statistical memory. Yet these proposals carry zero truth value until they pass the test of an implacable judge: the formal verifier. This deterministic logical kernel acts like an uncompromising compiler, rejecting anything that violates the strict rules of the axiomatic system. The AI spits out rough drafts at breakneck speed while the deterministic machine validates or destroys those hypotheses one by one. Confusing this division of labor with autonomous mathematical reasoning on the part of AI is pure sophistry.
 Beyond the Loss Function. Reducing the act of mathematics to minimizing a loss function in a high-dimensional latent space confuses statistical approximation with formal truth. In theoretical computer science as in pure logic, a 99.9% approximation is still an error, and no amount of compute will ever turn continuous interpolation into infallible discrete deduction. Above all, this frenzy serves as a reminder of what remains out of reach for machines: formulating a fertile definition, spotting a hidden duality, or building an unprecedented axiomatic framework requires a semantic intentionality that no optimization algorithm will ever produce. Artificial intelligence will remain a formidable tool for heuristic exploration, yet rigorous proof—much like the beauty of the idea behind it—still belongs, and will long belong, to the mind that actually understands what it proves.
 
+Tanaka Hina
+
 Reference.
 
 A few words from the author of this article
